@@ -82,6 +82,7 @@ header {
     text-transform: uppercase;
 }
 
+/* Menu Start */
 .menu {
     width: 100%;
     background-color: #fff;
@@ -194,6 +195,7 @@ header {
     height: 23px;
 }
 
+/* Menu End */
 
 /** Styke menu */
 
